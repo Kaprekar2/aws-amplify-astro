@@ -1,3 +1,6 @@
+# test comment
+comment for confirming amplify url scheme to branch
+
 # Astro Starter Kit: Basics
 
 ```sh
